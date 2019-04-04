@@ -1,0 +1,19 @@
+{
+    "name": "minbaby/something-swoole",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "minbaby.zhang",
+            "email": "minbaby.zhang@gmail.com"
+        }
+    ],
+    "require": {
+        "swoole/ide-helper": "~4.3.0"
+    },
+    "autoload": {
+        "files": [
+            "common/common.php"
+        ]
+    }
+}
